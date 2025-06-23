@@ -1,0 +1,8 @@
+valores de n | tempo de execução
+5  ---> 0 segundos
+10 ---> 0.000001 segundos
+15 ---> 0.000004 segundos
+20 ---> 0.000043 segundos
+25 ---> 0.000465 segundos
+30 ---> 0.005142 segundos
+35 ---> 0.058506 segundos
